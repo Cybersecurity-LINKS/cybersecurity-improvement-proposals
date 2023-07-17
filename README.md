@@ -1,6 +1,6 @@
-# research-improvement-proposals
+# cybersecurity-improvement-proposals
 
-RIPs are improvement proposals for bettering the Self-Sovereign Identity and Trusted Computing ecosystems.
+CIPs are improvement proposals for bettering the Self-Sovereign Identity and Trusted Computing ecosystems.
 
 | **Number** | **Layer** | **Title**                                    | **Author**    | **Type** | **Status** |
 |------------|-----------|----------------------------------------------|---------------|----------|------------|
