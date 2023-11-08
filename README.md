@@ -1,6 +1,6 @@
 # cybersecurity-improvement-proposals
 
-CIPs are improvement proposals for bettering the Self-Sovereign Identity and Trusted Computing ecosystems.
+CIPs are improvement proposals for Self-Sovereign Identity and Trust techniques in decentralised systems.
 
 | **Number** | **Layer** | **Title**                                    | **Author**    | **Type** | **Status** |
 |------------|-----------|----------------------------------------------|---------------|----------|------------|
